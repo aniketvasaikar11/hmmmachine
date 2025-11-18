@@ -5,3 +5,8 @@ numpy
 plotly
 hmmlearn
 scikit-learn
+streamlit
+numpy
+pandas
+scipy
+plotly
